@@ -1,6 +1,7 @@
 ---
 categories: Blog
 date: 2014/03/04 01:50:00
+updated: 2014/05/22 22:23:00
 title: Não
 ---
 [Não](http://nao.tem.blog.br) - <http://nao.tem.blog.br>
@@ -8,3 +9,5 @@ title: Não
 Página inicial de [tem.blog.br](http://tem.blog.br) (redirecionamento).
 
 O site principal também é uma instalação de [Blogofile](http://www.blogofile.com)!
+
+Atualização: Movido para <http://ninguem.tem.blog.br>.
