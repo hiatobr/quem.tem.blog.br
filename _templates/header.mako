@@ -12,7 +12,7 @@ def nav_class(path):
    return ""
 %>
     <ul class="theme_font">
-	<li><a href="http://tem.blog.br" target="_self">Não Tem Blog .BR</a></li>
+	<li><a href="http://tem.blog.br" target="_self">Ninguém Tem Blog!</a></li>
       <li><a href="${bf.util.site_path_helper()}"
              class="${nav_class(bf.util.site_path_helper())}">Quem Tem Blog?</a></li>
       <li><a href="${bf.util.site_path_helper(bf.config.blog.path)}"
